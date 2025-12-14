@@ -1,0 +1,13 @@
+Model,Question,Predicted,Expected,Confidence
+Full FT (80%),What is the capital of France?...,Paris,Paris,0.9878001809120178
+Full FT (80%),What does Google Colab provide access to?...,GPUs and TPUs,GPUs and TPUs,0.9215218424797058
+Full FT (80%),When was Python created?...,1991,1991,0.978976309299469
+Full FT (80%),Who invented the telephone?...,Alexander Graham Bell,Alexander Graham Bell,0.9919923543930054
+"LoRA (r=16, 80%)",What is the capital of France?...,Paris,Paris,0.8267907500267029
+"LoRA (r=16, 80%)",What does Google Colab provide access to?...,GPUs and TPUs,GPUs and TPUs,0.5575212240219116
+"LoRA (r=16, 80%)",When was Python created?...,1991,1991,0.7611557245254517
+"LoRA (r=16, 80%)",Who invented the telephone?...,Alexander Graham Bell,Alexander Graham Bell,0.9721689224243164
+Few-Shot (1000),What is the capital of France?...,Paris,Paris,0.049178604036569595
+Few-Shot (1000),What does Google Colab provide access to?...,free access to GPUs and TPUs,GPUs and TPUs,0.03060767985880375
+Few-Shot (1000),When was Python created?...,Guido van Rossum and first released in 1991,1991,0.030048344284296036
+Few-Shot (1000),Who invented the telephone?...,Alexander Graham Bell,Alexander Graham Bell,0.1178140640258789
